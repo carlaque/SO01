@@ -16,7 +16,7 @@ public class ThreadCalc extends Thread{
 	private void calc() {
 		try {
 			sleep(op * 1000);
-		} catch (InterruptedException e) {
+		} catch (InterruptedException e)	 {
 			e.printStackTrace();
 		}
 		int res = 0;
