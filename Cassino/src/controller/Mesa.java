@@ -10,7 +10,6 @@ public class Mesa {
 	}
 	
 	public void showRanking() {
-		//System.out.println(ranking.length);
 		for(int i = 0; i < 3; i ++) {
 			System.out.println(i + 1 + "º lugar o Jogador de numero "+ ranking[i].getNumero());
 		}
