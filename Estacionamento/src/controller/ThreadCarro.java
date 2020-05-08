@@ -20,7 +20,6 @@ public class ThreadCarro extends Thread{
 			semaforo.acquire();
 			carroEstacionado();
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}finally {			
 			semaforo.release();
