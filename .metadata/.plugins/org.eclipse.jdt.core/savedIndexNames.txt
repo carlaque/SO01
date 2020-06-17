@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\carla\OneDrive\Área de Trabalho\FATEC\SO01\.metadata\.plugins\org.eclipse.jdt.core
+1248545562.index
+2003686873.index
